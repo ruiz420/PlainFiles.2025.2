@@ -1,0 +1,13 @@
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\TRABAJOS ITM\TERCER SEMESTRE\ESTRUCTURA DE DATOS Y LABORATORIO\taller6\PlainFile.core\bin\Debug\net8.0\PlainFile.core.deps.json
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\TRABAJOS ITM\TERCER SEMESTRE\ESTRUCTURA DE DATOS Y LABORATORIO\taller6\PlainFile.core\bin\Debug\net8.0\PlainFile.core.dll
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\TRABAJOS ITM\TERCER SEMESTRE\ESTRUCTURA DE DATOS Y LABORATORIO\taller6\PlainFile.core\bin\Debug\net8.0\PlainFile.core.pdb
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\TRABAJOS ITM\TERCER SEMESTRE\ESTRUCTURA DE DATOS Y LABORATORIO\taller6\PlainFile.core\obj\Debug\net8.0\PlainFile.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\TRABAJOS ITM\TERCER SEMESTRE\ESTRUCTURA DE DATOS Y LABORATORIO\taller6\PlainFile.core\obj\Debug\net8.0\PlainFile.core.AssemblyInfoInputs.cache
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\TRABAJOS ITM\TERCER SEMESTRE\ESTRUCTURA DE DATOS Y LABORATORIO\taller6\PlainFile.core\obj\Debug\net8.0\PlainFile.core.AssemblyInfo.cs
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\TRABAJOS ITM\TERCER SEMESTRE\ESTRUCTURA DE DATOS Y LABORATORIO\taller6\PlainFile.core\obj\Debug\net8.0\PlainFile.core.csproj.CoreCompileInputs.cache
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\TRABAJOS ITM\TERCER SEMESTRE\ESTRUCTURA DE DATOS Y LABORATORIO\taller6\PlainFile.core\obj\Debug\net8.0\PlainFile.core.sourcelink.json
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\TRABAJOS ITM\TERCER SEMESTRE\ESTRUCTURA DE DATOS Y LABORATORIO\taller6\PlainFile.core\obj\Debug\net8.0\PlainFile.core.dll
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\TRABAJOS ITM\TERCER SEMESTRE\ESTRUCTURA DE DATOS Y LABORATORIO\taller6\PlainFile.core\obj\Debug\net8.0\refint\PlainFile.core.dll
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\TRABAJOS ITM\TERCER SEMESTRE\ESTRUCTURA DE DATOS Y LABORATORIO\taller6\PlainFile.core\obj\Debug\net8.0\PlainFile.core.pdb
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\TRABAJOS ITM\TERCER SEMESTRE\ESTRUCTURA DE DATOS Y LABORATORIO\taller6\PlainFile.core\obj\Debug\net8.0\ref\PlainFile.core.dll
+C:\Users\Martin Ruiz\OneDrive - SENA\Escritorio\TRABAJOS ITM\TERCER SEMESTRE\ESTRUCTURA DE DATOS Y LABORATORIO\taller6\PlainFile.core\obj\Debug\net8.0\PlainFile.core.csproj.AssemblyReference.cache

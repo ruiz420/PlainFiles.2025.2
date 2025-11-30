@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4JiQ4P4uA4c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Martin Ruiz\\OneDrive - SENA\\Escritorio\\TRABAJOS ITM\\TERCER SEMESTRE\\ESTRUCTURA DE DATOS Y LABORATORIO\\taller6\\PlainFile.console\\PlainFiles.console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martin Ruiz\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
+    "C:\\Users\\Martin Ruiz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Martin Ruiz\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Martin Ruiz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Martin Ruiz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
